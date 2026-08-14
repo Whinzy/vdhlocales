@@ -3,6 +3,7 @@
 appDesc = '''Web'den Videolar İndirin.'''
 restore_purchase_button = '''Satın alımı geri yükle'''
 get_premium_button = '''Premium al'''
+get_premium_description = '''Hiçbir kısıtlama olmaksızın, sınırsız indirme ve mevcut en iyi kalitenin keyfini çıkarın.'''
 back = '''Geri'''
 rm_notifications_all = '''Tüm bildirimleri temizle'''
 waiting_for_media = '''Medya için bekleniyor...'''
